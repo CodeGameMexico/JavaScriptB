@@ -52,6 +52,10 @@ Para poder tener todos los proyectos es necesario instalar algunas librerías. D
 
 ## Acerca de nosotros
 
+CodeGame Academy, como su nombre lo dice, somos una academia totalmente en linea la cual se empecializa en cursos principalmente de tecnología, programación y todo lo relacionado con este mundo.
+
+
+
 
 
 ## License
