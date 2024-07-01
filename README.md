@@ -1,4 +1,4 @@
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+![Logo](https://dcdn.mitiendanube.com/stores/004/870/313/products/1-f7ccd3df1a8704ffc817193233342893-1024-1024-caa1e953edbd80966717194518155425-1024-1024.webp)
 
 
 # Curso de JavaScript básico
