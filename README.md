@@ -4,14 +4,18 @@
 # Curso de JavaScript básico
 
 En este repositorio encontrarás todo el contenido necesario para poder hacer los ejercicios y ejemplos vistos en las clases.
+Para poder obtener el certificado es necesario hacer un Fork a un repositorio publico y posteriormente realizar todos los ejercicios.
 
 ## Recursos
 
-Como crear una cuenta de GitHub [aqui]("https://www.youtube.com/watch?v=rBPBBCpqP5s" "Heading link")
+Como crear una cuenta de GitHub:
+https://www.youtube.com/watch?v=rBPBBCpqP5s
 
-Como hacer un fork a un repositorio de GitHub [aqui]("https://www.youtube.com/watch?v=1jIlDNRyiUc" "Heading link")
+Como hacer un fork a un repositorio de GitHub 
+https://www.youtube.com/watch?v=1jIlDNRyiUc
 
-Como subir cambios a GitHub [aqui]("https://www.youtube.com/watch?v=UDZzVyZvv-M" "Heading link")
+Como subir cambios a GitHub 
+https://www.youtube.com/watch?v=UDZzVyZvv-M
 
 ## Temario
 
