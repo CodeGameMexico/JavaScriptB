@@ -3,8 +3,15 @@
 
 # Curso de JavaScript básico
 
-En este repositorio encontrarás todo el material didactico que se ve durante el curso, como los ejercicios y las actividades que se realizarón.
+En este repositorio encontrarás todo el contenido necesario para poder hacer los ejercicios y ejemplos vistos en las clases.
 
+## Recursos
+
+Como crear una cuenta de GitHub [aqui]("https://www.youtube.com/watch?v=rBPBBCpqP5s" "Heading link")
+
+Como hacer un fork a un repositorio de GitHub [aqui]("https://www.youtube.com/watch?v=1jIlDNRyiUc" "Heading link")
+
+Como subir cambios a GitHub [aqui]("https://www.youtube.com/watch?v=UDZzVyZvv-M" "Heading link")
 
 ## Temario
 
@@ -54,8 +61,9 @@ Para poder tener todos los proyectos es necesario instalar algunas librerías. D
 
 CodeGame Academy, como su nombre lo dice, somos una academia totalmente en linea la cual se empecializa en cursos principalmente de tecnología, programación y todo lo relacionado con este mundo.
 
+En CodeGame Academy nuestro principal objetivo es que nuestros usuarios tengan una aprendizaje de calidad junto con diferentes ejercicios de prácticas y documentación necesaria para que puedan concluir la formación academica de cada curso.
 
-
+De igual forma siempre se tienen enlaces y canales de comunicación para que los usuarios puedan tener dudas y sugerencias.
 
 
 ## License
